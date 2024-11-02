@@ -8,6 +8,6 @@ Task 1:
 
 
 Task 3:   
-  -Generated various images from MidJourney.ai,Stable Diffusion 3, Flux 1.1, getimg.ai
+  -Generated various images from MidJourney.ai,Stable Diffusion 3, Flux 1.1, getimg.ai     
   -Selected the accurately generated image from the models
   
